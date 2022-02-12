@@ -7,5 +7,5 @@
 5.Используя ввод комманд можно удалить файл/директорию или скопировать файл/директорию по указанному в строке адресу.  
 с помощью нажатия ключевых клавиш.  
 
-<img src="https://github.com/NickitaV/FileManager/pull/1/commits/a394bb2efd60122f72484ed85bf7d611ddb8239b/scrin 1.png">  
-<img src="https://github.com/NickitaV/FileManager/pull/1/commits/a394bb2efd60122f72484ed85bf7d611ddb8239b/scrin 2.png">  
+<img src="scrin 1.png">  
+<img src="scrin 2.png">  
